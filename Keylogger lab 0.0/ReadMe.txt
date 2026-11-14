@@ -1,6 +1,6 @@
 # KeyloggerLab
 
-**Version:** 0.1-preview  
+**Version:** 0.0-preview  
 **Language:** C++  
 **Project Type:** Cybersecurity Research / Defensive Security
 
@@ -92,7 +92,7 @@ It operates exclusively on manually supplied or synthetic event descriptions. It
 
 This project is currently in its early development stage.
 
-Version 0.1-preview focuses on establishing the foundational C++ components before implementing more advanced simulation and defensive analysis features.
+Version 0.0-preview focuses on establishing the foundational C++ components before implementing more advanced simulation and defensive analysis features.
 
 ## Author's Learning Objectives
 
